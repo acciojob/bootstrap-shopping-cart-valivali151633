@@ -1,1 +1,15 @@
 /*  your css code here. If applicable */
+ .block-heading {
+            color: #3b99e0;
+        }
+
+        .summary {
+            border-top: 2px solid #5ea4f3;
+            background-color: #f7fbff;
+            padding: 20px;
+            border-bottom: 2px solid #5ea4f3;
+        }
+
+        .product {
+            margin-bottom: 20px;
+        }
